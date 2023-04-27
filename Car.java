@@ -4,3 +4,4 @@ diger devoloper  taskini tamamladi
 
 
 yeni kodlar ekledim.
+farkli kodlar yazdim
