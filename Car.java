@@ -4,4 +4,8 @@ diger devoloper  taskini tamamladi
 
 
 yeni kodlar ekledim.
-  bazi calismalar yaptim.
+
+farkli kodlar yazdim
+
+ bazi calismalar yaptim.
+
