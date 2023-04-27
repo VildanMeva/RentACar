@@ -8,4 +8,5 @@ yeni kodlar ekledim.
 farkli kodlar yazdim
 
  bazi calismalar yaptim.
+ local de comflict olursa
 
